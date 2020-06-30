@@ -1,66 +1,66 @@
-2009 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr
-	any	197.0	57.0	4.1	24.0	8.53	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	data_sharing	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	pediatric	5.0	40.0	3.32	20.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	personalized_medicine	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	progressive	30.0	60.0	5.43	20.0	28.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-2010 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr
-	any	223.0	50.0	4.57	26.0	4.76	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	data_sharing	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	pediatric	11.0	73.0	5.27	27.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	personalized_medicine	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	progressive	41.0	54.0	6.13	27.0	4.64	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-2011 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr
-	any	220.0	59.0	4.26	28.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	data_sharing	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	pediatric	5.0	60.0	4.63	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	personalized_medicine	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	progressive	32.0	47.0	5.31	31.0	6.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-2012 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr
-	any	228.0	62.0	4.07	55.0	5.99	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	data_sharing	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	pediatric	7.0	14.0	4.57	29.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	personalized_medicine	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	progressive	38.0	66.0	3.7	63.0	10.54	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-2013 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr
-	any	279.0	61.0	4.2	56.0	6.69	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	data_sharing	1.0	100.0	9.5	100.0	13.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	pediatric	5.0	40.0	5.73	60.0	8.33	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	personalized_medicine	1.0	0.0	0.0	100.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	progressive	34.0	62.0	3.5	59.0	7.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-2014 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr
-	any	412.0	61.0	4.07	60.0	9.55	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	data_sharing	1.0	100.0	2.65	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	pediatric	14.0	79.0	4.45	50.0	3.14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	personalized_medicine	2.0	100.0	2.39	50.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	progressive	56.0	57.0	4.42	77.0	8.42	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-2015 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr
-	any	453.0	60.0	4.21	79.0	9.99	97.0	23.45	97.0	12.42	94.0	6.18	97.0	1.59
-	data_sharing	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-	pediatric	19.0	68.0	3.79	74.0	35.57	89.0	23.53	89.0	11.59	84.0	7.02	89.0	1.39
-	personalized_medicine	2.0	50.0	3.45	100.0	2.5	100.0	18.0	100.0	13.0	100.0	4.38	100.0	1.75
-	progressive	62.0	61.0	4.39	84.0	15.62	98.0	26.31	98.0	13.59	97.0	6.91	98.0	1.73
-2016 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr
-	any	477.0	62.0	4.36	71.0	15.44	85.0	20.58	85.0	14.21	84.0	6.25	85.0	1.77
-	data_sharing	2.0	100.0	5.06	100.0	11.5	100.0	15.0	100.0	13.5	100.0	5.45	100.0	1.06
-	pediatric	22.0	73.0	9.09	82.0	50.0	95.0	30.05	95.0	22.71	95.0	9.0	95.0	2.23
-	personalized_medicine	6.0	50.0	5.03	67.0	7.0	67.0	18.25	67.0	13.25	67.0	5.56	67.0	1.16
-	progressive	78.0	53.0	4.0	77.0	16.8	91.0	23.72	91.0	15.66	91.0	7.68	91.0	2.12
-2017 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr
-	any	498.0	60.0	3.81	74.0	15.04	97.0	16.78	97.0	14.76	95.0	7.23	97.0	1.86
-	data_sharing	3.0	33.0	2.78	33.0	10.0	100.0	5.33	100.0	5.33	100.0	2.69	100.0	0.64
-	pediatric	21.0	62.0	4.86	86.0	6.78	100.0	11.86	100.0	11.29	95.0	4.83	100.0	1.19
-	personalized_medicine	5.0	40.0	4.31	60.0	8.67	100.0	22.8	100.0	20.4	100.0	11.01	100.0	2.22
-	progressive	92.0	62.0	3.86	78.0	26.29	99.0	19.69	99.0	16.88	98.0	8.64	98.0	2.16
-2018 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr
-	any	493.0	64.0	4.36	75.0	13.57	99.0	12.01	99.0	11.94	96.0	7.4	99.0	2.27
-	data_sharing	3.0	100.0	5.02	100.0	8.0	100.0	3.0	100.0	3.0	100.0	1.83	100.0	0.43
-	pediatric	14.0	64.0	3.84	79.0	2.64	100.0	10.21	100.0	10.21	93.0	7.98	93.0	1.85
-	personalized_medicine	2.0	50.0	2.73	100.0	37.5	100.0	24.0	100.0	24.0	100.0	16.8	100.0	6.5
-	progressive	74.0	70.0	4.51	78.0	11.74	99.0	10.62	99.0	10.55	96.0	6.37	99.0	1.89
-2019 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr
-	any	583.0	66.0	4.36	76.0	14.11	99.0	3.3	99.0	3.29	0.0	1.83	0.0	0.0
-	data_sharing	3.0	100.0	2.51	33.0	9.0	100.0	3.0	100.0	3.0	0.0	0.0	0.0	0.0
-	pediatric	27.0	59.0	9.63	74.0	97.75	100.0	5.56	100.0	5.52	0.0	0.0	0.0	0.0
-	personalized_medicine	9.0	67.0	5.29	100.0	7.44	100.0	1.89	100.0	1.89	0.0	0.0	0.0	0.0
-	progressive	87.0	74.0	4.04	79.0	12.77	99.0	3.03	99.0	3.03	0.0	0.0	0.0	0.0
+2009 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
+	any	197.0	57.0	4.1	24.0	8.53	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	data_sharing	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	pediatric	5.0	40.0	3.32	20.0	6.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	personalized_medicine	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	progressive	30.0	60.0	5.43	20.0	28.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+2010 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
+	any	223.0	50.0	4.57	26.0	4.76	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	data_sharing	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	pediatric	11.0	73.0	5.27	27.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	personalized_medicine	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	progressive	41.0	54.0	6.13	27.0	4.64	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+2011 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
+	any	220.0	59.0	4.26	28.0	7.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	data_sharing	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	pediatric	5.0	60.0	4.63	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	personalized_medicine	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	progressive	32.0	47.0	5.31	31.0	6.9	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+2012 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
+	any	228.0	62.0	4.07	55.0	5.99	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	data_sharing	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	pediatric	7.0	14.0	4.57	29.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	personalized_medicine	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	progressive	38.0	66.0	3.7	63.0	10.54	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+2013 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
+	any	279.0	61.0	4.2	56.0	6.69	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	data_sharing	1.0	100.0	9.5	100.0	13.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	pediatric	5.0	40.0	5.73	60.0	8.33	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	personalized_medicine	1.0	0.0	0.0	100.0	2.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	progressive	34.0	62.0	3.5	59.0	7.1	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+2014 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
+	any	412.0	61.0	4.07	60.0	9.55	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	data_sharing	1.0	100.0	2.65	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	pediatric	14.0	79.0	4.45	50.0	3.14	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	personalized_medicine	2.0	100.0	2.39	50.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	progressive	56.0	57.0	4.42	77.0	8.42	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+2015 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
+	any	453.0	60.0	4.21	79.0	9.99	97.0	23.45	97.0	12.42	94.0	6.18	97.0	1.59	92.0	1.7
+	data_sharing	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+	pediatric	19.0	68.0	3.79	74.0	35.57	89.0	23.53	89.0	11.59	84.0	7.02	89.0	1.39	84.0	1.38
+	personalized_medicine	2.0	50.0	3.45	100.0	2.5	100.0	18.0	100.0	13.0	100.0	4.38	100.0	1.74	50.0	2.0
+	progressive	62.0	61.0	4.39	84.0	15.62	98.0	26.31	98.0	13.59	97.0	6.91	98.0	1.73	94.0	1.59
+2016 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
+	any	477.0	62.0	4.36	71.0	15.44	85.0	20.58	85.0	14.21	84.0	6.25	85.0	1.77	79.0	1.77
+	data_sharing	2.0	100.0	5.06	100.0	11.5	100.0	15.0	100.0	13.5	100.0	5.44	100.0	1.06	100.0	4.0
+	pediatric	22.0	73.0	9.09	82.0	50.0	95.0	30.05	95.0	22.71	95.0	9.0	95.0	2.23	91.0	1.9
+	personalized_medicine	6.0	50.0	5.03	67.0	7.0	67.0	18.25	67.0	13.25	67.0	5.56	67.0	1.16	67.0	1.75
+	progressive	78.0	53.0	4.0	77.0	16.8	91.0	23.72	91.0	15.66	91.0	7.68	91.0	2.12	85.0	1.92
+2017 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
+	any	498.0	60.0	3.81	74.0	15.04	97.0	16.78	97.0	14.76	95.0	7.23	97.0	1.86	90.0	1.8
+	data_sharing	3.0	33.0	2.78	33.0	10.0	100.0	5.33	100.0	5.33	100.0	2.69	100.0	0.64	100.0	2.67
+	pediatric	21.0	62.0	4.86	86.0	6.78	100.0	11.86	100.0	11.29	95.0	4.83	100.0	1.19	86.0	2.28
+	personalized_medicine	5.0	40.0	4.31	60.0	8.67	100.0	22.8	100.0	20.4	100.0	11.01	100.0	2.22	100.0	2.8
+	progressive	92.0	62.0	3.86	78.0	26.29	99.0	19.69	99.0	16.88	98.0	8.64	98.0	2.16	85.0	1.76
+2018 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
+	any	493.0	64.0	4.36	75.0	13.57	99.0	12.01	99.0	11.94	96.0	7.4	99.0	2.27	93.0	1.79
+	data_sharing	3.0	100.0	5.02	100.0	8.0	100.0	3.0	100.0	3.0	100.0	1.83	100.0	0.43	100.0	3.0
+	pediatric	14.0	64.0	3.84	79.0	2.64	100.0	10.21	100.0	10.21	93.0	7.98	93.0	1.85	100.0	1.93
+	personalized_medicine	2.0	50.0	2.72	100.0	37.5	100.0	24.0	100.0	24.0	100.0	16.8	100.0	6.5	100.0	3.5
+	progressive	74.0	70.0	4.51	78.0	11.74	99.0	10.62	99.0	10.55	96.0	6.37	99.0	1.89	89.0	1.82
+2019 	 authors	num_of_pub	perc_if	av_if	perc_alt	av_alt	perc_cit	av_cit	perc_reccit	av_reccit	perc_fcr	av_fcr	perc_rcr	av_rcr	perc_cima	av_cima
+	any	583.0	66.0	4.36	76.0	14.11	99.0	3.3	99.0	3.29	0.0	1.83	0.0	0.0	96.0	1.91
+	data_sharing	3.0	100.0	2.51	33.0	9.0	100.0	3.0	100.0	3.0	0.0	0.0	0.0	0.0	100.0	2.33
+	pediatric	27.0	59.0	9.63	74.0	97.75	100.0	5.56	100.0	5.52	0.0	0.0	0.0	0.0	93.0	3.48
+	personalized_medicine	9.0	67.0	5.28	100.0	7.44	100.0	1.89	100.0	1.89	0.0	0.0	0.0	0.0	78.0	1.71
+	progressive	87.0	74.0	4.04	79.0	12.77	99.0	3.03	99.0	3.03	0.0	0.0	0.0	0.0	98.0	1.96
