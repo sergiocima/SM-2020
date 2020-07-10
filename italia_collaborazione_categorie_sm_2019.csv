@@ -1,0 +1,81 @@
+"From","To","Count"
+"Gruppo di interesse","Industria",6
+"Gruppo di interesse","Organizzazione di ricerca pubblica o privata",13
+"Gruppo di interesse","Organizzazione governativa",8
+"Gruppo di interesse","Organizzazione no profit",6
+"Gruppo di interesse","Ospedale",30
+"Gruppo di interesse","Ospedale di ricerca",12
+"Gruppo di interesse","Ospedale universitario",16
+"Gruppo di interesse","Università",54
+"Industria","Gruppo di interesse",6
+"Industria","Organizzazione di ricerca pubblica o privata",14
+"Industria","Organizzazione governativa",6
+"Industria","Organizzazione no profit",10
+"Industria","Ospedale",57
+"Industria","Ospedale di ricerca",11
+"Industria","Ospedale universitario",57
+"Industria","Università",105
+"Industria","non assegnato",4
+"Organizzazione di ricerca pubblica o privata","Gruppo di interesse",13
+"Organizzazione di ricerca pubblica o privata","Industria",14
+"Organizzazione di ricerca pubblica o privata","Organizzazione governativa",34
+"Organizzazione di ricerca pubblica o privata","Organizzazione no profit",13
+"Organizzazione di ricerca pubblica o privata","Ospedale",153
+"Organizzazione di ricerca pubblica o privata","Ospedale di ricerca",67
+"Organizzazione di ricerca pubblica o privata","Ospedale universitario",90
+"Organizzazione di ricerca pubblica o privata","Università",274
+"Organizzazione governativa","Gruppo di interesse",8
+"Organizzazione governativa","Industria",6
+"Organizzazione governativa","Organizzazione di ricerca pubblica o privata",34
+"Organizzazione governativa","Organizzazione no profit",5
+"Organizzazione governativa","Ospedale",53
+"Organizzazione governativa","Ospedale di ricerca",19
+"Organizzazione governativa","Ospedale universitario",27
+"Organizzazione governativa","Università",88
+"Organizzazione no profit","Gruppo di interesse",6
+"Organizzazione no profit","Industria",10
+"Organizzazione no profit","Organizzazione di ricerca pubblica o privata",13
+"Organizzazione no profit","Organizzazione governativa",5
+"Organizzazione no profit","Ospedale",20
+"Organizzazione no profit","Ospedale di ricerca",6
+"Organizzazione no profit","Ospedale universitario",21
+"Organizzazione no profit","Università",27
+"Ospedale","Gruppo di interesse",30
+"Ospedale","Industria",57
+"Ospedale","Organizzazione di ricerca pubblica o privata",153
+"Ospedale","Organizzazione governativa",53
+"Ospedale","Organizzazione no profit",20
+"Ospedale","Ospedale di ricerca",132
+"Ospedale","Ospedale universitario",199
+"Ospedale","Università",784
+"Ospedale","non assegnato",6
+"Ospedale di ricerca","Gruppo di interesse",12
+"Ospedale di ricerca","Industria",11
+"Ospedale di ricerca","Organizzazione di ricerca pubblica o privata",67
+"Ospedale di ricerca","Organizzazione governativa",19
+"Ospedale di ricerca","Organizzazione no profit",6
+"Ospedale di ricerca","Ospedale",132
+"Ospedale di ricerca","Ospedale universitario",39
+"Ospedale di ricerca","Università",275
+"Ospedale universitario","Gruppo di interesse",16
+"Ospedale universitario","Industria",57
+"Ospedale universitario","Organizzazione di ricerca pubblica o privata",90
+"Ospedale universitario","Organizzazione governativa",27
+"Ospedale universitario","Organizzazione no profit",21
+"Ospedale universitario","Ospedale",199
+"Ospedale universitario","Ospedale di ricerca",39
+"Ospedale universitario","Università",320
+"Ospedale universitario","non assegnato",5
+"Università","Gruppo di interesse",54
+"Università","Industria",105
+"Università","Organizzazione di ricerca pubblica o privata",274
+"Università","Organizzazione governativa",88
+"Università","Organizzazione no profit",27
+"Università","Ospedale",784
+"Università","Ospedale di ricerca",275
+"Università","Ospedale universitario",320
+"Università","non assegnato",7
+"non assegnato","Industria",4
+"non assegnato","Ospedale",6
+"non assegnato","Ospedale universitario",5
+"non assegnato","Università",7
